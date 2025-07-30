@@ -90,7 +90,6 @@ This is an interactive review guide for EEE6208 Digital Circuits, supporting bot
 
 ## Project Structure
 
-/
 ├── index.html          # Main application file
 ├── README.md           # Project description
 └── .git/               # Git version control
