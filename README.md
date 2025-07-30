@@ -3,21 +3,6 @@
 
 **[View in Chinese](README_zh.md)**
 
----
-
-## Table of Contents
-* [Project Description](#project-description)
-* [Main Features](#main-features)
-    * [Multilingual Support](#multilingual-support)
-    * [Learning Modules](#learning-modules)
-* [How to Use](#how-to-use)
-* [Technical Features](#technical-features)
-* [Browser Compatibility](#browser-compatibility)
-* [Project Structure](#project-structure)
-* [Development Notes](#development-notes)
-* [License](#license)
-
----
 
 ## Project Description
 
