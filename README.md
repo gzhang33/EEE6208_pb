@@ -1,5 +1,22 @@
 # EEE6208 Interactive Review Guide
 
+
+**[View in Chinese](README_zh.md)**
+
+---
+
+## Table of Contents
+* [Project Description](#project-description)
+* [Main Features](#main-features)
+    * [Multilingual Support](#multilingual-support)
+    * [Learning Modules](#learning-modules)
+* [How to Use](#how-to-use)
+* [Technical Features](#technical-features)
+* [Browser Compatibility](#browser-compatibility)
+* [Project Structure](#project-structure)
+* [Development Notes](#development-notes)
+* [License](#license)
+
 ---
 
 ## Project Description
@@ -91,7 +108,9 @@ This is an interactive review guide for EEE6208 Digital Circuits, supporting bot
 ## Project Structure
 
 ├── index.html          # Main application file
+
 ├── README.md           # Project description
+
 └── .git/               # Git version control
 
 
