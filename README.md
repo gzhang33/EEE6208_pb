@@ -89,3 +89,24 @@ This is an interactive review guide for EEE6208 Digital Circuits, supporting bot
 ---
 
 ## Project Structure
+
+/
+├── index.html          # Main application file
+├── README.md           # Project description
+└── .git/               # Git version control
+
+
+---
+
+## Development Notes
+
+- Uses HTML5, CSS3, JavaScript ES6+
+- Adopts a modular design for easy maintenance and expansion
+- Supports adding more language versions
+- Expandable with more interactive learning modules
+
+---
+
+## License
+
+This project is for educational purposes only.
